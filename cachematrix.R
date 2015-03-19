@@ -5,10 +5,6 @@
 ## cached version.  If one exists it is loaded otherwise the
 ## full computation will occur.
 
-B = matrix(
-  c(4, 3, 3, 2), 
-  nrow=2, 
-  ncol=2) 
 
 ## This function is modeled after the makeVector function
 ## created by Roger Peng.  The function takes in a matrix
